@@ -1,0 +1,2 @@
+# solr
+Solr docker images
